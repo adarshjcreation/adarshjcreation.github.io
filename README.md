@@ -1,1 +1,48 @@
-# adarshjcreation.github.io
+# Welcome to Adarsh Jain's Personal Website
+
+🌐 **https://adarshjcreation.github.io**
+
+Hello! I'm **Adarsh Jain**, a PhD scholar specializing in **deep learning and computational imaging**. This website serves as my professional portfolio where I share my research, projects, publications, and other academic activities.
+
+## 📂 About This Repository
+
+This is the source code for my personal website hosted using [GitHub Pages](https://pages.github.com/). Here, you’ll find:
+
+- Information about my academic and research interests
+- Projects and datasets I work on
+- Links to publications and collaborations
+- Contact details and social profiles
+
+The website is built using simple and modern web technologies to provide an accessible and informative experience.
+
+## 🧑‍🔬 About Me
+
+- 🔬 PhD scholar in computational seismic imaging and deep learning  
+- 🎯 Focused on solving challenging inverse problems using machine learning  
+- 📚 Passionate about sharing knowledge and contributing to open-source communities  
+- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/adarshjain) or via email: adarsh.jain@example.com
+
+## 🚀 Get Involved
+
+Feel free to:
+- Explore the website and its contents
+- Share feedback or suggest improvements via GitHub Issues
+- Fork or contribute if you want to collaborate on any projects
+
+## ⚙️ Technical Details
+
+- Built with HTML, CSS, and optionally JavaScript frameworks
+- Hosted via GitHub Pages for ease of deployment
+- Open-source and MIT licensed
+
+## 📬 Contact
+
+You can reach me at:
+
+✉️ adarsh.jain@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/adarshjain)  
+🐙 [GitHub](https://github.com/adarshjcreation)
+
+---
+
+Thank you for visiting my website!
