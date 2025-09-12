@@ -20,7 +20,7 @@ The website is built using simple and modern web technologies to provide an acce
 - 🔬 PhD scholar in computational seismic imaging and deep learning  
 - 🎯 Focused on solving challenging inverse problems using machine learning  
 - 📚 Passionate about sharing knowledge and contributing to open-source communities  
-- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/adarshjain) or via email: adarsh.jain@example.com
+- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/adarshjain) or via email: adarshjain1@iisc.ac.in
 
 ## 🚀 Get Involved
 
