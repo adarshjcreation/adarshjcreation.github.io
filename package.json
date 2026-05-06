@@ -1,0 +1,12 @@
+{
+  "name": "adarshjcreation-website",
+  "version": "1.0.0",
+  "description": "Personal website for Adarsh Jain",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "cheerio": "^1.2.0",
+    "jest": "^30.3.0"
+  }
+}
